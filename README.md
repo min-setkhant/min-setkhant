@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m Min Set Khant  
 
-<!--
-**min-setkhant/min-setkhant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a Master’s student in **Data Science** at the University of Arizona.  
+💻 Currently learning **Data Mining, Cloud Analytics, and Machine Learning**.  
+🌱 Interested in **AI, data visualization, and big data systems**.  
+🚀 Working on projects that combine **data analytics and storytelling**.  
 
-Here are some ideas to get you started:
+## 🔍 My Interests  
+- Exploring **machine learning from scratch**  
+- Building data pipelines with **Python & SQL**  
+- Practicing **data storytelling** with Looker Studio and visualization tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Projects  
+- Course assignments in INFO 511 and INFO 523  
+- Practicing **GitHub flow** and version control  
+- Learning **MongoDB & Snowflake** for cloud data management  
+
+## 🎮 Fun Side of Me  
+- Love watching movies 🎥  
+- Exploring new travel spots 🌍  
+- Big fan of creative, adventure, and tech vibes ⚡  
+
+📫 Connect with me:  
+- [LinkedIn](https://www.linkedin.com/in/min-set-khant)  
+- [GitHub Profile](https://github.com/min-setkhant)  
