@@ -7,8 +7,8 @@
 
 ## 🔍 My Interests  
 - Exploring **machine learning from scratch**  
-- Building data pipelines with **Python & SQL & R **  
-- Practicing **data storytelling** with Looker Studio and visualization tools  
+- Building data pipelines with **Python & SQL**  
+- Practicing **data storytelling** with R Studio, PowerBi , Looker Studio and visualization tools  
 
 ## 🎯 Current Projects  
 - Course assignments in INFO 511 and INFO 523  
