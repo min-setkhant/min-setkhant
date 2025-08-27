@@ -7,7 +7,7 @@
 
 ## 🔍 My Interests  
 - Exploring **machine learning from scratch**  
-- Building data pipelines with **Python & SQL**  
+- Building data pipelines with **Python & SQL & R **  
 - Practicing **data storytelling** with Looker Studio and visualization tools  
 
 ## 🎯 Current Projects  
